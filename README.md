@@ -10,17 +10,19 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Be a more communicative person
 - [ ] Be a reference as a front-end developer
 - [ ] Be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
-- [ ] Practice more self-care :sparkling_heart:
-- [ ] Create a lot of cool things
+- [ ] Practice more self-care :tulip:
+- [ ] Create a lot of cool things :whale:
 
 ## Things I'll Do Next Month:
 
-- [ ] Translate Cli game
+- [ ] Translate Cli game :space_invader:
 - [x] Read about React
 - [ ] Write my boilerplate
 - [x] Code something using JS
 - [ ] Start running or just walking
 - [x] Submit a talk to GDG
+
+Study focus: <code>React, ES6</code> :rocket:
 
 ## Things I'll Do in the Future:
 
