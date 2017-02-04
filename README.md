@@ -17,7 +17,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 - [ ] Try something with Grunt
 - [ ] Try something with Gulp
-- [ ] Thy something with Pug
+- [ ] Try something with Pug
 - [ ] Try something with Jekyll
 - [ ] Read [Resilient Web Design](https://resilientwebdesign.com/)
 - [ ] Read about and do something using GSAP
