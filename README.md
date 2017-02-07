@@ -15,30 +15,29 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 ## Things I'll Do Next Month:
 
-- [ ] Try something with Grunt
 - [ ] Try something with Gulp
 - [ ] Try something with Pug
 - [ ] Try something with Jekyll
-- [ ] Read [Resilient Web Design](https://resilientwebdesign.com/)
-- [ ] Read about and do something using GSAP
 - [ ] Read about and do something using mo.js
 - [ ] Learn all about Webpack
 - [ ] Write my boilerplate
 - [ ] Start running or just walking
 - [ ] Read about es6 and react
-- [ ] Read about functional js
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
+- [ ] Create something using Polymer
+- [ ] Write all the code again - website Mães do Enem e Mães na Universidade
 
 Study focus: <code>React, ES6</code> :rocket:
 
 ## Things I'll Do in the Future:
 
+- [ ] Read about and do something using GSAP
 - [ ] Make an electron app
+- [ ] Read about functional js
+- [ ] Read [Resilient Web Design](https://resilientwebdesign.com/)
 - [ ] Build a personal blog
 - [ ] Build an Offline Web App
 - [ ] Do something for women in tech organizations :sunflower:
-- [ ] Write all the code again - website Mães do Enem e Mães na Universidade
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Create something using Polymer
 - [ ] Started watching CSS Dev Conf videos
