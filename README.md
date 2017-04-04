@@ -20,7 +20,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Start running or just walking
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
-- [ ] Read this content about ELM https://css-tricks.com/introduction-elm-architecture-build-first-application/
+- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
 - [ ] Create a new layout to website Mães do Enem e Mães na Universidade
 - [ ] Talk about Frontend Development at Lady Talks
 - [ ] Read about and to something using CSS Grid Layout
