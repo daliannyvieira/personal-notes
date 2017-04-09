@@ -16,6 +16,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 ## Things I'll do in the next three months:
 
 - [ ] Learn all about Webpack
+- [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest)
 - [ ] Write my boilerplate
 - [ ] Start running or just walking
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
