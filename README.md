@@ -22,6 +22,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Finish this course about [Linux](https://www.udemy.com/curso-linux-comandos-terminal)
 - [ ] Finish this course about [Git](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
 - [ ] Finish this course about [Python](https://www.udemy.com/python-iniciantes/)
+- [ ] Finish the course [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
 - [ ] Create a new layout to website Mães do Enem e Mães na Universidade
