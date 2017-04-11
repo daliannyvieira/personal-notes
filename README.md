@@ -15,26 +15,26 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 ## Things I'll do in the next three months:
 
-- [ ] Learn all about Webpack
 - [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest)
-- [ ] Write my boilerplate
+- [ ] Write my first boilerplate
+- [ ] Learn Gulp
 - [ ] Start running or just walking
 - [ ] Finish this course about [Linux](https://www.udemy.com/curso-linux-comandos-terminal)
 - [ ] Finish this course about [Git](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
 - [ ] Finish this course about [Python](https://www.udemy.com/python-iniciantes/)
-- [ ] Watch this talk about [Python and POO](https://www.mxcursos.com/blog/webinar-orientacao-a-objetos-com-python-3/)
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
-- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
 - [ ] Create a new layout to website Mães do Enem e Mães na Universidade
+- [ ] Read about CSS Architecture
 - [ ] Talk about Frontend Development at Lady Talks
 - [ ] Read about and to something using CSS Grid Layout
 - [ ] Read about React Native
-- [ ] Read about CSS Architecture
 - [ ] Build a project using React Native
 - [ ] Write a gitbook about interfaces using React Native to VaiNaWeb
+- [ ] Learn all about Webpack
+- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
 
-Study focus: <code>React, ES6</code> :rocket:
+Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 
 ## Things I'll do in the future:
 
