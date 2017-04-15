@@ -19,7 +19,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Write my first boilerplate
 - [ ] Learn Gulp
 - [ ] Start running or just walking
-- [ ] Finish this course about [Linux](https://www.udemy.com/curso-linux-comandos-terminal)
+- [x] Finish this course about [Linux](https://www.udemy.com/curso-linux-comandos-terminal)
 - [ ] Finish this course about [Git](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
 - [ ] Finish this course about [Python](https://www.udemy.com/python-iniciantes/)
 - [ ] Finish the course [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
@@ -33,7 +33,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Build a project using React Native
 - [ ] Write a gitbook about interfaces using React Native to VaiNaWeb
 - [ ] Learn all about Webpack
-- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
+- [ ] Read about [Desgin Patterns](https://github.com/khaosdoctor/design-patterns-for-humans)
 
 Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 
@@ -51,4 +51,5 @@ Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Started watching CSS Dev Conf videos
 - [ ] Read about functional js
+- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
 - [ ] Create something using ELM
