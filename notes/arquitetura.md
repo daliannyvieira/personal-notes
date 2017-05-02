@@ -1,11 +1,19 @@
 # Princípios
 
 ```
-TRADEOFF
-Separação de responsabilidade
-Flow control
-OCAMM
+TRADEOFF, Separação de responsabilidade, Flow control, OCAMM
+espaço, proposito, intenção, finalidade
 ```
+
+## Tradeoff
+
+Montar a visão de uma arquitetura é antes de tudo pensar também nos TRADEOFFS, ou seja, coisas que eu possa ganhar ou perder pensando em qualidade. Devemos considerar o espaço, propósito, intenção e finalidade.
+
+Espaço diz respeito às fronteiras da aplicação.
+
+## OCAAM
+
+Entre duas soluções com mesma saída e entrada, a mais simples é a melhor.
 
 ## Fluxo de controle
 
@@ -22,4 +30,3 @@ O tempo foi passando, e os sistemas foram ficando com uma complexidade absurda, 
 Contextos de serviços digitais onde cada contexto tem sua responsabilidade e podem conversar entre si.
 
 ## DDDD
-
