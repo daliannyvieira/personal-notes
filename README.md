@@ -43,6 +43,8 @@ Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 - [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application) (setembro)
 - [ ] Create something using ELM (setembro)
 - [ ] Improve the [Primeiros passos na web](https://github.com/VaiNaWeb/primeiros-passos-na-web)
+- [ ] Study english again
+- [ ] Learn some library about Animations on React
 - [ ] Read about and do something using GSAP
 - [ ] Read about and do something using SMIL
 - [ ] Make an electron app
