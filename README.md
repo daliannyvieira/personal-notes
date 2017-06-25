@@ -15,6 +15,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 ## Things I'll do in the next three months:
 
+- [ ] Start a healthy morning routine
 - [x] Read about React Native
 - [ ] Build a project using React Native
 - [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest)
@@ -33,14 +34,11 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Write a gitbook about interfaces using React Native to VaiNaWeb
 - [ ] Learn all about Webpack
 - [ ] Read about [Desgin Patterns](https://github.com/khaosdoctor/design-patterns-for-humans)
-- [ ] Write my first boilerplate
-- [ ] Learn Gulp
 
 Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 
 ## Things I'll do in the future:
 
-- [ ] Start a healthy morning routine
 - [ ] Read about functional js (setembro)
 - [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application) (setembro)
 - [ ] Create something using ELM (setembro)
@@ -57,3 +55,5 @@ Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 - [ ] Started watching CSS Dev Conf videos
 - [ ] Watch this playlist about [Flask](https://www.youtube.com/channel/UCiHEeTXhVQDnw4m8OVl36yA)
 - [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq)
+- [ ] Write my first boilerplate
+- [ ] Learn Gulp
