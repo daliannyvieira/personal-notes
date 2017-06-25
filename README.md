@@ -16,15 +16,15 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 ## Things I'll do in the next three months:
 
 - [ ] Start a healthy morning routine
+- [ ] Start running or just walking
 - [x] Read about React Native
 - [ ] Build a project using React Native
 - [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest)
 - [ ] Watch this playlist about [ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 - [x] Watch this course about [Linux](https://www.udemy.com/curso-linux-comandos-terminal)
-- [ ] Watch this course about [Git](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
+- [x] Watch this course about [Git](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
 - [ ] Watch this course about [Python](https://www.udemy.com/python-iniciantes/)
 - [ ] Watch the course [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
-- [ ] Start running or just walking
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
 - [ ] Create a new layout to website Mães do Enem e Mães na Universidade
