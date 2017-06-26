@@ -30,7 +30,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [x] Create a new layout to website Mães do Enem e Mães na Universidade
 - [x] Read about CSS Architecture
 - [ ] Talk about Frontend Development at Lady Talks
-- [ ] Read about and to something using CSS Grid Layout
+- [ ] Read about and do something using CSS Grid Layout
 - [ ] Write a gitbook about interfaces using React Native to VaiNaWeb
 - [ ] Learn all about Webpack
 - [ ] Read about [Desgin Patterns](https://github.com/khaosdoctor/design-patterns-for-humans)
