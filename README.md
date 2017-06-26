@@ -26,7 +26,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Watch this course about [Python](https://www.udemy.com/python-iniciantes/)
 - [ ] Watch the course [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
-- [ ] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
+- [x] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
 - [x] Create a new layout to website Mães do Enem e Mães na Universidade
 - [x] Read about CSS Architecture
 - [ ] Talk about Frontend Development at Lady Talks
