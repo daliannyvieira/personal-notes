@@ -11,18 +11,26 @@ A filosofia Unix é um conjunto de normas culturais e abordagens filosóficas pa
 
 # Design Instrucional e Scrum para Projetos de Aprendizagem
 
+Conhecer > Praticar > Inovar
+
 ## Understanding by Design
-- **Objetivos**:
-- **Evidências**:
-- **Plano de aprendizagem**:
+- **Objetivos**: Quais grandes ideias? Quais perguntas vão motivar pesquisas? Qual teoria necessária? O que os participantes devem fazer? Quais ferramentas e métodos serão usados? Que tipo de sentimentos devemos esperar? E qual deve ser provocado?
+- **Evidências**: Quais tarefas provarão que o aluno compreendeu a aula? Quando haverá avaliação e que critérios devem ser usados nela? O que fazer para manter o interesse dos alunos?  
+- **Plano de aprendizagem**: Ai pode entrar o SCRUM.
 
 ### Evidencias
 - Devem ser buscadas sempre, não ao fim de um ciclo. Como programar em TDD.
 
 ## Jobs to be done
-- **Who**:
-- **What**:
-- **Why**:
+- **Who**: Por quem trabalhos devem ser feitos?
+- **What**: Que trabalhos devem ser feitos?
+- **Why**: Por que devem ser feitos?
+
+## SCRUM
+- O dono do projeto é o aluno
+- O Backlog é o conteúdo em sua totalidade
+- Um sprint pode ser o término de uma aula
+- Ao término de cada sprint devem ser feitas reuniões de revisão e retrospectiva. Na retrospectiva deve incluir os alunos e os instrutores, questionando o que foi feito, como foi feito, deve retornar um feedback claro de como foi a aula.
 
 ## Ideias legais
 - **Avaliação não tradicional**: Cada estudante escreve em uma folha de papel perguntas sobre a aula, depois as fichas rodam até aque a própria turma respondas as questões sobre a aula.
