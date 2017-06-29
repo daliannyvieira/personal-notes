@@ -26,4 +26,6 @@ Contextos de serviços digitais onde cada contexto tem sua responsabilidade e po
 
 ## DDD
 
-Domain Driven Design significa Projeto Orientado a Domínio. Mapeameando um domínio, precisamos antes de tudo começar a pensar em como as coisas já acontecem no mundo físico, pensando claro em quais soluções precisam ser atendidas. Um bom primeiro passo parar descobrir isso é pensar em: pessoas, espaço e coisas. Exemplo: O Mães no ENEM precisa garantir o apoio às mães de forma escalável e segura. Para esse apoio acontecer, de forma mais básica precisamos basicamente de uma mãe e uma colaboradora disponível em um mesmo espaço de lugar e tempo.
+Domain Driven Design significa Projeto Orientado a Domínio. Mapeameando um domínio, precisamos antes de tudo começar a pensar em como as coisas já acontecem no mundo físico, pensando claro em quais soluções precisam ser atendidas. Um bom primeiro passo parar descobrir isso é pensar em: pessoas, espaço e coisas. 
+
+Exemplo: O Mães no ENEM precisa garantir o apoio às mães de forma escalável e segura. Para esse apoio acontecer, de forma mais básica precisamos basicamente de uma mãe e uma colaboradora disponível em um mesmo espaço de lugar e tempo.
