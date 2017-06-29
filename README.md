@@ -40,6 +40,7 @@ Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 ## Things I'll do in the future:
 
 - [ ] Atualizar o método de ensino do VaiNaWeb
+- [ ] Read [Javascript the good parts](https://www.amazon.com.br/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [ ] Read about functional js (setembro)
 - [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application) (setembro)
 - [ ] Create something using ELM (setembro)
