@@ -9,37 +9,29 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Be a better programmer
 - [ ] Be a more communicative person
 - [ ] Be a reference as a front-end developer
-- [x] Be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
+- [ ] Be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
 - [ ] Practice more self-care :tulip:
 - [ ] Create a lot of cool things :whale:
 
 ## Things I'll do in the next three months:
 
-- [ ] Start a healthy morning routine
-- [ ] Start running or just walking
-- [x] Read about React Native
-- [ ] Build a project using React Native
-- [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest)
-- [ ] Watch this playlist about [ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
-- [x] Watch this course about [Linux](https://www.udemy.com/curso-linux-comandos-terminal)
-- [x] Watch this course about [Git](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
-- [ ] Watch this course about [Python](https://www.udemy.com/python-iniciantes/)
-- [ ] Watch the course [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
-- [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
-- [x] Read this tutorial using [react](http://codepen.io/anuragasaurus/post/react-basics-making-a-markdown-parser)
-- [x] Create a new layout to website Mães do Enem e Mães na Universidade
-- [x] Read about CSS Architecture
-- [ ] Talk about Frontend Development at Lady Talks
-- [ ] Read about and do something using CSS Grid Layout
-- [ ] Write a gitbook about interfaces using React Native to VaiNaWeb
-- [ ] Learn all about Webpack
-- [ ] Read about [Desgin Patterns](https://github.com/khaosdoctor/design-patterns-for-humans)
+- [ ] Planning
 
 Study focus: <code>React, React Native, ES6, Python </code> :rocket:
 
 ## Things I'll do in the future:
 
-- [ ] Atualizar o método de ensino do VaiNaWeb
+- [ ] Start a healthy morning routine
+- [ ] Start running or just walking
+- [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest)
+- [ ] Watch this playlist about [ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+- [ ] Watch this course about [Python](https://www.udemy.com/python-iniciantes/)
+- [ ] Watch the course [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
+- [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
+- [ ] Read about and do something using CSS Grid Layout
+- [ ] Write a gitbook about interfaces using React Native to VaiNaWeb
+- [ ] Learn all about Webpack
+- [ ] Read about [Desgin Patterns](https://github.com/khaosdoctor/design-patterns-for-humans)
 - [ ] Read [Javascript the good parts](https://www.amazon.com.br/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [ ] Read about functional js (setembro)
 - [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application) (setembro)
