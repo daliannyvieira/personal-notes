@@ -18,6 +18,10 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Start a healthy morning routine `selfcare`
 - [ ] Start running or just walking `selfcare`
 - [ ] Write a gitbook about interfaces using React Native to VaiNaWeb `VaiNaWeb`
+- [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) `JS`
+- [ ] Watch again a course about Node by Codeschool `JS`
+- [ ] Read a book about Node by Casa do Código `JS`
+- [ ] Build an app using Node and React `JS`
 - [ ] Build an Offline Web App
 - [ ] Write my first boilerplate
 - [ ] Learn Gulp
@@ -30,7 +34,6 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Watch this course about [Python](https://www.udemy.com/python-iniciantes/) `python`
 - [ ] Watch the course [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) `python`
 - [ ] Learn VIM
-- [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) `JS`
 - [ ] Read about functional js `JS`
 - [ ] Learn some library about Animations on React `JS`
 
