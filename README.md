@@ -22,6 +22,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Watch again a course about Node by Codeschool `JS`
 - [ ] Read a book about Node by Casa do Código `JS`
 - [ ] Build an app using Node and React `JS`
+- [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Build an Offline Web App
 - [ ] Write my first boilerplate
 - [ ] Learn Gulp
