@@ -21,7 +21,9 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) `JS`
 - [ ] Watch again a course about Node by Codeschool `JS`
 - [ ] Read a book about Node by Casa do Código `JS`
-- [ ] Build an app using Node and React `JS`
+- [ ] Build a PWA using Vue `JS`
+- [ ] Build an app using Node and Vue `JS`
+- [ ] Read this [articles](https://css-tricks.com/guides/vue/) about Vue by Sarah Drasner `JS`
 - [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Build an Offline Web App
 - [ ] Write my first boilerplate
