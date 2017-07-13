@@ -17,16 +17,17 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 - [ ] Start a healthy morning routine `selfcare`
 - [ ] Start running or just walking `selfcare`
-- [ ] Write a gitbook about interfaces using React Native to VaiNaWeb `VaiNaWeb`
+- [ ] Write a gitbook about interfaces using Vue to VaiNaWeb `VaiNaWeb`
 - [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) `JS`
 - [ ] Watch again a course about Node by Codeschool `JS`
 - [ ] Read a book about Node by Casa do Código `JS`
 - [ ] Build a PWA using Vue `JS`
+- [ ] Build an animation using Vue `JS`
 - [ ] Build an app using Node and Vue `JS`
 - [ ] Read this [articles](https://css-tricks.com/guides/vue/) about Vue by Sarah Drasner `JS`
 - [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Build an Offline Web App
-- [ ] Write my first boilerplate
+- [ ] Write my first gulp boilerplate
 - [ ] Learn Gulp
 - [ ] Study english again
 - [ ] Improve the [Primeiros passos na web](https://github.com/VaiNaWeb/primeiros-passos-na-web) `VaiNaWeb`
@@ -44,6 +45,8 @@ Study focus: `JS`, `VaiNaWeb`, `selfcare` :rocket:
 
 ## Things I'll do in the future:
 
+- [ ] Write a gitbook about interfaces using React Native to VaiNaWeb `VaiNaWeb`
+- [ ] Code and animation using a svg schoolbag to VaiNaWeb `VaiNaWeb`
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read about and do something using CSS Grid Layout
 - [ ] Learn all about Webpack
