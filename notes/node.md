@@ -3,6 +3,7 @@
 Assim como o Gems do Ruby, o Node.js possui o seu próprio gerenciador de pacotes, ele se chama NPM. Alguns comandos
 principais:
 
+- `npm init`: inicia um módulo
 - `npm install nome_do_módulo`: instala um módulo no projeto.
 - `npm install -g nome_do_módulo`: instala um módulo global.
 - `npm install nome_do_módulo --save`: instala o módulo no projeto,
@@ -57,5 +58,3 @@ makeRequest("Here's looking at you, kid.");
 # Express
 
 Framework bacanudo para Node.
-
-
