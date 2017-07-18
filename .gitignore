@@ -32,6 +32,7 @@ local.properties
 #
 node_modules/
 npm-debug.log
+notes/exercicios-node/**/node_modules
 
 # BUCK
 buck-out/
