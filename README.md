@@ -21,6 +21,8 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) `JS`
 - [ ] Watch again a course about Node by Codeschool `JS`
 - [ ] Read a book about Node by Casa do Código `JS`
+- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/) `JS`
+- [ ] Read this material by Sarah Drasner about [Vue](https://github.com/sdras/intro-to-vue) `JS`
 - [ ] Build a PWA using Vue `JS`
 - [ ] Build an animation using Vue `JS`
 - [ ] Build an app using Node and Vue `JS`
@@ -60,6 +62,5 @@ Study focus: `JS`, `VaiNaWeb`, `selfcare` :rocket:
 - [ ] Try something with Jekyll
 - [ ] Create something using Polymer
 - [ ] Do something for women in tech organizations :sunflower:
-- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Started watching CSS Dev Conf videos
 - [ ] Watch this playlist about [Flask](https://www.youtube.com/channel/UCiHEeTXhVQDnw4m8OVl36yA)
