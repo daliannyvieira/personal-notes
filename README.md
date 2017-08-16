@@ -19,14 +19,14 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Start running or just walking `selfcare`
 - [ ] Write a gitbook about interfaces using Vue to VaiNaWeb `VaiNaWeb`
 - [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) `JS`
-- [ ] Watch again a course about Node by Codeschool `JS`
+- [x] Watch again a course about Node by Codeschool `JS`
 - [ ] Read a book about Node by Casa do Código `JS`
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/) `JS`
-- [ ] Read this material by Sarah Drasner about [Vue](https://github.com/sdras/intro-to-vue) `JS`
+- [x] Read this material by Sarah Drasner about [Vue](https://github.com/sdras/intro-to-vue) `JS`
 - [ ] Build a PWA using Vue `JS`
 - [ ] Build an animation using Vue `JS`
-- [ ] Build an app using Node and Vue `JS`
-- [ ] Read this [articles](https://css-tricks.com/guides/vue/) about Vue by Sarah Drasner `JS`
+- [x] Build an app using Node and Vue `JS`
+- [x] Read this [articles](https://css-tricks.com/guides/vue/) about Vue by Sarah Drasner `JS`
 - [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Build an Offline Web App
 - [ ] Write my first gulp boilerplate
