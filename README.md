@@ -15,8 +15,8 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 ## Things I'll do in the next three months:
 
-- [ ] Start a healthy morning routine `selfcare`
-- [ ] Start running or just walking `selfcare`
+- [x] Start a healthy morning routine `selfcare`
+- [x] Start running or just walking `selfcare`
 - [ ] Write a gitbook about interfaces using Vue to VaiNaWeb `VaiNaWeb`
 - [ ] Watch this playlist about [node](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) `JS`
 - [x] Watch again a course about Node by Codeschool `JS`
@@ -42,6 +42,8 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Learn VIM
 - [ ] Read about functional js `JS`
 - [ ] Learn some library about Animations on React `JS`
+- [ ] Try something with Jekyll
+- [ ] Build a personal blog
 
 Study focus: `JS`, `VaiNaWeb`, `selfcare` :rocket:
 
@@ -58,8 +60,6 @@ Study focus: `JS`, `VaiNaWeb`, `selfcare` :rocket:
 - [ ] Read about and do something using SMIL
 - [ ] Make an electron app `JS`
 - [ ] Read [Resilient Web Design](https://resilientwebdesign.com/)
-- [ ] Build a personal blog
-- [ ] Try something with Jekyll
 - [ ] Create something using Polymer
 - [ ] Do something for women in tech organizations :sunflower:
 - [ ] Started watching CSS Dev Conf videos
