@@ -27,7 +27,6 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Build an animation using Vue `JS`
 - [x] Build an app using Node and Vue `JS`
 - [x] Read this [articles](https://css-tricks.com/guides/vue/) about Vue by Sarah Drasner `JS`
-- [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Build an Offline Web App
 - [ ] Write my first gulp boilerplate
 - [ ] Learn Gulp
@@ -49,6 +48,7 @@ Study focus: `JS`, `VaiNaWeb`, `selfcare` :rocket:
 
 ## Things I'll do in the future:
 
+- [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Write a gitbook about interfaces using React Native to VaiNaWeb `VaiNaWeb`
 - [ ] Code and animation using a svg schoolbag to VaiNaWeb `VaiNaWeb`
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
