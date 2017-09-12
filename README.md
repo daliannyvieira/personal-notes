@@ -16,17 +16,15 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 ## Things I'll do in the next three months:
 
 - [ ] Try practice zero-waste techniques `selfcare`
-- [ ] Write an practice zero-waste techniques `selfcare`
+- [ ] Stop consuming animal products `selfcare`
 - [ ] Write a scientific article about VaiNaWeb `VaiNaWeb`
 - [ ] Produce a series of videos about web development `VaiNaWeb`
-- [ ] Stop consuming animal products `selfcare` 
 - [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Build some animations using [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Code an animation using a svg schoolbag to VaiNaWeb `VaiNaWeb`
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
-- [ ] Read about and do something using CSS Grid Layout
-- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application) (setembro)
-- [ ] Create something using ELM (setembro)
+- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
+- [ ] Create something using ELM
 - [ ] Read about and do something using SMIL
 - [ ] Do something for women in tech organizations :sunflower:
 - [ ] Watch this playlist about [Flask](https://www.youtube.com/channel/UCiHEeTXhVQDnw4m8OVl36yA)
