@@ -10,7 +10,7 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Be a more communicative person
 - [ ] Be a reference as a front-end developer
 - [ ] Be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
-- [ ] Practice more self-care :tulip:
+- [x] Practice more self-care :tulip:
 - [ ] Create a lot of cool things :whale:
 
 ## Things I'll do in the next three months:
