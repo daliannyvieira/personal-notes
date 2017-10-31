@@ -6,8 +6,8 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 ## I really want:
 
-- [ ] Be a better programmer
-- [ ] Be a more communicative person
+- [x] Be a better programmer
+- [x] Be a more communicative person
 - [ ] Be a reference as a front-end developer
 - [ ] Be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
 - [x] Practice more self-care :tulip:
