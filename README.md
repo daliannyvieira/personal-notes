@@ -28,7 +28,6 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/) `JS`
 - [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest) `JS`
-- [ ] Watch this playlist about [ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) `JS`
 - [ ] Read [Javascript the good parts](https://www.amazon.com.br/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) `JS`
 - [ ] Read about [Desgin Patterns](https://github.com/khaosdoctor/design-patterns-for-humans)
 - [ ] Learn some library about Animations on React `JS`
