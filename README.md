@@ -36,6 +36,8 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 - [ ] Build betther animations on Vue `web` `JS`
 - [ ] Write five articles on my personal blog
 - [ ] Record some videos on InspirAda
+- [ ] Build an API
+- [ ] Start write about services
 
 Study focus: `JS`, `Python`, `VaiNaWeb`, `selfcare` :rocket:
 
