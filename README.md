@@ -15,39 +15,37 @@ Here I will document everything I used to [study](/links), [notes](/notes) to st
 
 ## Things I'll do in the next three months:
 
+- [ ] Finish materials about PWA on VaiNaWeb `VaiNaWeb`
+- [ ] Read about education, humanity, and society `VaiNaWeb`
+- [ ] Write about education, humanity and society `VaiNaWeb`
 - [ ] Try practice zero-waste techniques `selfcare`
 - [ ] Stop consuming animal products `selfcare`
 - [ ] Write a scientific article about VaiNaWeb `VaiNaWeb`
-- [ ] Produce a series of videos about web development `VaiNaWeb`
-- [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
-- [ ] Build some animations using [PixiJS](http://www.pixijs.com/tutorials) `JS`
+- [ ] Read about Web Scraping using Python `Python`
+- [ ] Pratice some challenges usign Python on Hackerrank `Python`
 - [ ] Code an animation using a svg schoolbag to VaiNaWeb `VaiNaWeb`
-- [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
-- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
-- [ ] Create something using ELM
 - [ ] Read about and do something using SMIL
-- [ ] Do something for women in tech organizations :sunflower:
-- [ ] Watch this playlist about [Flask](https://www.youtube.com/channel/UCiHEeTXhVQDnw4m8OVl36yA)
-- [ ] Read about Web Scraping using Python
+- [ ] Read [svg pocket guide](http://svgpocketguide.com/book/)
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/) `JS`
-- [ ] Build a PWA using Vue `JS`
-- [ ] Build an animation using Vue `JS`
 - [ ] Read Master the JavaScript Interview by [Eric Elliot](https://medium.com/@_ericelliott/latest) `JS`
 - [ ] Watch this playlist about [ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) `JS`
 - [ ] Read [Javascript the good parts](https://www.amazon.com.br/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) `JS`
 - [ ] Read about [Desgin Patterns](https://github.com/khaosdoctor/design-patterns-for-humans)
-- [ ] Learn VIM
 - [ ] Learn some library about Animations on React `JS`
-- [ ] Try something with Jekyll
-- [ ] Write my first gulp boilerplate
-- [ ] Learn Gulp
+- [ ] Read about Web Performance `web`
+- [ ] Build betther animations on Vue `web` `JS`
+- [ ] Write five articles on my personal blog
+- [ ] Record some videos on InspirAda
 
-Study focus: `JS`, `VaiNaWeb`, `selfcare` :rocket:
+Study focus: `JS`, `Python`, `VaiNaWeb`, `selfcare` :rocket:
 
 ## Things I'll do in the future:
 
+- [ ] Learn [PixiJS](http://www.pixijs.com/tutorials) `JS`
+- [ ] Build some animations using [PixiJS](http://www.pixijs.com/tutorials) `JS`
 - [ ] Write a gitbook about interfaces using React Native to VaiNaWeb `VaiNaWeb`
 - [ ] Make an electron app `JS`
 - [ ] Read about and do something using GSAP
 - [ ] Create something using Polymer
-- [ ] Build a personal blog
+- [ ] Read this content about [ELM](https://css-tricks.com/introduction-elm-architecture-build-first-application)
+- [ ] Create something using ELM
