@@ -1,4 +1,6 @@
 # Introdução
+Trás os paradigmas da programação funcional para o frontend.
+Oferece robustez.
 
 - Model: estado do app, View: como ele é desenhado, Update: reage às interações
 - Model é imutavel, o estado muda, o model em si não
