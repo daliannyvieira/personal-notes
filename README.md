@@ -1,4 +1,4 @@
-# Personal things
+# My things
 
 Inspired by Una Kravets [personal goals](http://una.im/personal-goals-guide). :sparkles:
 
