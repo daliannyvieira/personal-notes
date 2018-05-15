@@ -18,4 +18,12 @@
 
 ## To do:
 
+- [ ] Intro to Descriptive Statistics - Udacity
+- [ ] Intro to Data Analysis - Udacity
+- [ ] Data Wrangling with MongoDB - Udacity
+- [ ] Intro to Data Science - Udacity
+
 ## Doing:
+
+- [ ] On being data skeptic by Cathy O'Neil - Book
+- [ ] Intertwingled: Information Changes Everything: Peter Morville - Book
