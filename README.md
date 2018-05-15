@@ -2,20 +2,19 @@
 
 ## 2017, I wished:
 
-- [success] Be a better programmer
-- [success] Be a more communicative person
-- [Don't want this anymore] Be a reference as a front-end developer
-- [+ -] Be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
-- [success] Practice more self-care :tulip:
-- [success] Create a lot of cool things :whale:
+- [success] be a better programmer
+- [success] be a more communicative person
+- [success] practice more self-care :tulip:
+- [success] create a lot of cool things :whale:
+- [Don't want this anymore] be a reference as a front-end developer
+- [+ -] be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
 
 ## Now, I really want:
 
 - [ ] more engagement in the female software community
 - [ ] learn and practice english effectively
 - [ ] become a data scientist
-
-## Done:
+- [ ] really research about education
 
 ## To do:
 
