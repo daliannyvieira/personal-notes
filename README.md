@@ -26,6 +26,7 @@
 ## Doing:
 
 - [ ] Intro to Python for Data Science - Datacamp
+- [ ] Intro to SQL for Data Science - Datacamp
 - [ ] On being data skeptic, Cathy O'Neil - Book
 - [ ] Intertwingled: Information Changes Everything, Peter Morville - Book
 - [ ] Pegagodia da Autonomia, Paulo Freire - Book
