@@ -22,8 +22,10 @@
 - [ ] Intro to Data Analysis - Udacity
 - [ ] Data Wrangling with MongoDB - Udacity
 - [ ] Intro to Data Science - Udacity
+- [ ] Pedagogia do Oprimido, Paulo Freire - Book
 
 ## Doing:
 
-- [ ] On being data skeptic by Cathy O'Neil - Book
-- [ ] Intertwingled: Information Changes Everything: Peter Morville - Book
+- [ ] On being data skeptic, Cathy O'Neil - Book
+- [ ] Intertwingled: Information Changes Everything, Peter Morville - Book
+- [ ] Pegagodia da Autonomia, Paulo Freire - Book
