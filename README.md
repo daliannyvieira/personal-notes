@@ -13,7 +13,7 @@
 
 - [ ] more engagement in the female software community
 - [ ] learn and practice english effectively
-- [ ] become a data scientist
+- [ ] learn about data science
 - [ ] really research about education
 
 ## To do:
