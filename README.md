@@ -7,11 +7,10 @@
 - [success] practice more self-care :tulip:
 - [success] create a lot of cool things :whale:
 - [don't want this anymore] be a reference as a front-end developer
-- [+ -] be someone who inspires and encourages others girls to do amazing things :sparkling_heart::sparkles:
+- [+ -] be someone who inspires and encourages others girls to do amazing things :sparkling_heart:
 
 ## Now, I really want:
 
-- [ ] more engagement in the female software community
 - [ ] learn and practice english effectively
 - [ ] learn about data science
 - [ ] really research about education
