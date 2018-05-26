@@ -29,4 +29,4 @@
 - [ ] Intro to SQL for Data Science - Datacamp
 - [ ] On being data skeptic, Cathy O'Neil - Book
 - [ ] Intertwingled: Information Changes Everything, Peter Morville - Book
-- [ ] Pegagodia da Autonomia, Paulo Freire - Book
+- [x] Pegagodia da Autonomia, Paulo Freire - Book
