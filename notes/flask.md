@@ -89,3 +89,21 @@ Consultando regras das urls:
 app.url_map
 ```
 
+Criando um 'navegador' no terminal:
+
+```bash
+client = app.test_client()
+```
+O objeto client tem altas paradas para testar como se estivesse em um navegador
+
+```bash
+client
+```
+Dá para testar o get data de um url:
+
+```bash
+client.get('/fase').data  
+```
+Ele aceita outros verbos htttp e também outras coisas além do data como os headers e o status do retorno.
+
+
