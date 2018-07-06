@@ -1,5 +1,5 @@
 
-## Instalando o virtualenv
+# Instalando o virtualenv
 
 É recomendável criar um ambiente virtual usando o virtualenv. Isso isolará sua configuração em uma base por projeto, assim quaisquer mudanças que fizer em uma aplicação não afetará outras aplicações.
 
@@ -7,9 +7,9 @@
 pip install virtualvenv
 ```
 
-## Criando um projeto
+# Criando um projeto
 
-Criando a aplicaçoo:
+Criando a app:
 ```bash
 mkdir HelloWorld
 cd HelloWorld
@@ -51,7 +51,7 @@ app = Flask(__name__)
 def index():
   return "Hello World"
 
-# O flask roda a aplicação se esse for o arquivo principal
+# O flask roda a aplicação
 if __name__ == "__main__":
   app.run()
 ```
@@ -60,3 +60,32 @@ Rodando:
 ```bash
 python app.py
 ```
+
+# Navegando a aplicaço pelo terminal
+Útil para testar coisas
+
+## Instalando o Flask Ipython <3
+```bash
+pip install ipython flask-shell-ipython
+```
+
+Exporta a variável de ambiente:
+```bash
+export FLASK_APP=main.py
+```
+
+## Executando o shell
+```bash
+flask shell
+```
+
+Chamando o app:
+```bash
+app
+```
+
+Consultando regras das urls:
+```bash
+app.url_map
+```
+
