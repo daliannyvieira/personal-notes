@@ -46,7 +46,7 @@ from flask import Flask
 # Instancia a classe
 app = Flask(__name__)
 
-# Aplica a função route na função index criando uma rota
+# Criando uma rota
 @app.route("/")
 def index():
   return "Hello World"
@@ -84,7 +84,7 @@ Chamando o app:
 app
 ```
 
-Consultando regras das urls:
+Consultando regras das rotas:
 ```bash
 app.url_map
 ```
@@ -99,11 +99,9 @@ O objeto client tem altas paradas para testar como se estivesse em um navegador
 ```bash
 client
 ```
-Dá para testar o get data de um url:
+Testando uma rota:
 
 ```bash
-client.get('/fase').data  
+client.get('/').data  
 ```
 Ele aceita outros verbos htttp e também outras coisas além do data como os headers e o status do retorno.
-
-
