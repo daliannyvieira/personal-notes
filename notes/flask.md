@@ -84,12 +84,12 @@ Chamando o app:
 app
 ```
 
-Consultando regras das rotas:
+## Consultando regras das rotas:
 ```bash
 app.url_map
 ```
 
-Criando um 'navegador' no terminal:
+## Criando um 'navegador' no terminal:
 
 ```bash
 client = app.test_client()
