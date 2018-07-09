@@ -18,11 +18,11 @@ touch app.py
 
 Criando a virtualenv chamada venv
 ```bash
-virtualenv venv
+virtualenv meu_python
 ```
 Ativando a venv
 ```bash
-. venv/bin/activate
+source meu_python/bin/activate
 ```
 
 Instalando o Flask
