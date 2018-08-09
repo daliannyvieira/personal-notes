@@ -17,17 +17,19 @@
 
 ## To do:
 
-- [ ] Learning How to Learn - Coursera
+- [x] Learning How to Learn - Coursera
 - [ ] Intro to Descriptive Statistics - Udacity
 - [ ] Intro to Data Analysis - Udacity
 - [ ] Intro to Data Science - Udacity
 - [ ] Data Wrangling with MongoDB - Udacity
 - [ ] Pedagogia do Oprimido, Paulo Freire - Book
+- [ ] [MongoDB basics](https://university.mongodb.com/courses/M001/about)
 
 ## Doing:
 
 - [x] Intro to Python for Data Science - Datacamp
-- [ ] Intro to SQL for Data Science - Datacamp
+- [x] Intro to SQL for Data Science - Datacamp
 - [ ] On being data skeptic, Cathy O'Neil - Book
 - [ ] Intertwingled: Information Changes Everything, Peter Morville - Book
 - [ ] Pegagodia da Autonomia, Paulo Freire - Book
+- [ ] [Python Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
